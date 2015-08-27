@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jybjones/websockets/issues"
   },
-  "homepage": "https://github.com/jybjones/websockets#readme"
+  "homepage": "https://github.com/jybjones/websockets#readme",
+  "dependencies": {
+    "socket.io": "^1.3.6"
+  }
 }
